@@ -1,0 +1,6 @@
+{
+  "name": "Fitcore Gym & Fitness Club",
+  "description": "Premier athletic performance gym, high-intensity strength programs, elite personal trainers, class scheduling, and membership plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
